@@ -325,27 +325,27 @@ i.inverted.circular.violet.icon {
 
 /* Purple */
 i.purple.icon {
-  color: #A333C8 !important;
+  color: #BA68C8 !important;
 }
 i.inverted.purple.icon {
-  color: #DC73FF !important;
+  color: #B783DB !important;
 }
 i.inverted.bordered.purple.icon,
 i.inverted.circular.purple.icon {
-  background-color: #A333C8 !important;
+  background-color: #BA68C8 !important;
   color: #FFFFFF !important;
 }
 
 /* Pink */
 i.pink.icon {
-  color: #E03997 !important;
+  color: #ED6B7A !important;
 }
 i.inverted.pink.icon {
-  color: #FF8EDF !important;
+  color: #FAB0B0 !important;
 }
 i.inverted.bordered.pink.icon,
 i.inverted.circular.pink.icon {
-  background-color: #E03997 !important;
+  background-color: #ED6B7A !important;
   color: #FFFFFF !important;
 }
 

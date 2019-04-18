@@ -431,18 +431,18 @@
 
 /* Purple */
 .ui.purple.progress .bar {
-  background-color: #A333C8;
+  background-color: #BA68C8;
 }
 .ui.purple.inverted.progress .bar {
-  background-color: #DC73FF;
+  background-color: #B783DB;
 }
 
 /* Pink */
 .ui.pink.progress .bar {
-  background-color: #E03997;
+  background-color: #ED6B7A;
 }
 .ui.pink.inverted.progress .bar {
-  background-color: #FF8EDF;
+  background-color: #FAB0B0;
 }
 
 /* Brown */

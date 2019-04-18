@@ -437,21 +437,21 @@
 }
 .ui.purple.message {
   background-color: #F6E7FF;
-  color: #A333C8;
-  -webkit-box-shadow: 0px 0px 0px 1px #A333C8 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
-          box-shadow: 0px 0px 0px 1px #A333C8 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  color: #BA68C8;
+  -webkit-box-shadow: 0px 0px 0px 1px #BA68C8 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+          box-shadow: 0px 0px 0px 1px #BA68C8 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 .ui.purple.message .header {
-  color: #922eb4;
+  color: #b155c1;
 }
 .ui.pink.message {
   background-color: #FFE3FB;
-  color: #E03997;
-  -webkit-box-shadow: 0px 0px 0px 1px #E03997 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
-          box-shadow: 0px 0px 0px 1px #E03997 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  color: #ED6B7A;
+  -webkit-box-shadow: 0px 0px 0px 1px #ED6B7A inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+          box-shadow: 0px 0px 0px 1px #ED6B7A inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 .ui.pink.message .header {
-  color: #dd238b;
+  color: #ea5466;
 }
 .ui.brown.message {
   background-color: #F1E2D3;

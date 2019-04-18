@@ -357,12 +357,12 @@
 .ui.purple.statistics .statistic > .value,
 .ui.statistics .purple.statistic > .value,
 .ui.purple.statistic > .value {
-  color: #A333C8;
+  color: #BA68C8;
 }
 .ui.pink.statistics .statistic > .value,
 .ui.statistics .pink.statistic > .value,
 .ui.pink.statistic > .value {
-  color: #E03997;
+  color: #ED6B7A;
 }
 .ui.brown.statistics .statistic > .value,
 .ui.statistics .brown.statistic > .value,
@@ -430,12 +430,12 @@
 .ui.inverted.purple.statistics .statistic > .value,
 .ui.statistics .inverted.purple.statistic > .value,
 .ui.inverted.purple.statistic > .value {
-  color: #DC73FF;
+  color: #B783DB;
 }
 .ui.inverted.pink.statistics .statistic > .value,
 .ui.statistics .inverted.pink.statistic > .value,
 .ui.inverted.pink.statistic > .value {
-  color: #FF8EDF;
+  color: #FAB0B0;
 }
 .ui.inverted.brown.statistics .statistic > .value,
 .ui.statistics .inverted.brown.statistic > .value,

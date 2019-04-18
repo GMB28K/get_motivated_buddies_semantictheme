@@ -3250,7 +3250,7 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 
 .ui.pink.buttons .button,
 .ui.pink.button {
-  background-color: #E03997;
+  background-color: #ED6B7A;
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
@@ -3263,21 +3263,21 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 
 .ui.pink.buttons .button:hover,
 .ui.pink.button:hover {
-  background-color: #e61a8d;
+  background-color: #f24d60;
   color: #FFFFFF;
   text-shadow: none;
 }
 
 .ui.pink.buttons .button:focus,
 .ui.pink.button:focus {
-  background-color: #e10f85;
+  background-color: #f9364d;
   color: #FFFFFF;
   text-shadow: none;
 }
 
 .ui.pink.buttons .button:active,
 .ui.pink.button:active {
-  background-color: #c71f7e;
+  background-color: #e73e51;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -3286,7 +3286,7 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 .ui.pink.buttons .active.button:active,
 .ui.pink.active.button,
 .ui.pink.button .active.button:active {
-  background-color: #ea158d;
+  background-color: #f5495d;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -3295,40 +3295,40 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 
 .ui.basic.pink.buttons .button,
 .ui.basic.pink.button {
-  -webkit-box-shadow: 0px 0px 0px 1px #E03997 inset !important;
-  box-shadow: 0px 0px 0px 1px #E03997 inset !important;
-  color: #E03997 !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #ED6B7A inset !important;
+  box-shadow: 0px 0px 0px 1px #ED6B7A inset !important;
+  color: #ED6B7A !important;
 }
 
 .ui.basic.pink.buttons .button:hover,
 .ui.basic.pink.button:hover {
   background: transparent !important;
-  -webkit-box-shadow: 0px 0px 0px 1px #e61a8d inset !important;
-  box-shadow: 0px 0px 0px 1px #e61a8d inset !important;
-  color: #e61a8d !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #f24d60 inset !important;
+  box-shadow: 0px 0px 0px 1px #f24d60 inset !important;
+  color: #f24d60 !important;
 }
 
 .ui.basic.pink.buttons .button:focus,
 .ui.basic.pink.button:focus {
   background: transparent !important;
-  -webkit-box-shadow: 0px 0px 0px 1px #e10f85 inset !important;
-  box-shadow: 0px 0px 0px 1px #e10f85 inset !important;
-  color: #e61a8d !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #f9364d inset !important;
+  box-shadow: 0px 0px 0px 1px #f9364d inset !important;
+  color: #f24d60 !important;
 }
 
 .ui.basic.pink.buttons .active.button,
 .ui.basic.pink.active.button {
   background: transparent !important;
-  -webkit-box-shadow: 0px 0px 0px 1px #ea158d inset !important;
-  box-shadow: 0px 0px 0px 1px #ea158d inset !important;
-  color: #c71f7e !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #f5495d inset !important;
+  box-shadow: 0px 0px 0px 1px #f5495d inset !important;
+  color: #e73e51 !important;
 }
 
 .ui.basic.pink.buttons .button:active,
 .ui.basic.pink.button:active {
-  -webkit-box-shadow: 0px 0px 0px 1px #c71f7e inset !important;
-  box-shadow: 0px 0px 0px 1px #c71f7e inset !important;
-  color: #c71f7e !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #e73e51 inset !important;
+  box-shadow: 0px 0px 0px 1px #e73e51 inset !important;
+  color: #e73e51 !important;
 }
 
 .ui.buttons:not(.vertical) > .basic.pink.button:not(:first-child) {
@@ -3340,9 +3340,9 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 .ui.inverted.pink.buttons .button,
 .ui.inverted.pink.button {
   background-color: transparent;
-  -webkit-box-shadow: 0px 0px 0px 2px #FF8EDF inset !important;
-  box-shadow: 0px 0px 0px 2px #FF8EDF inset !important;
-  color: #FF8EDF;
+  -webkit-box-shadow: 0px 0px 0px 2px #FAB0B0 inset !important;
+  box-shadow: 0px 0px 0px 2px #FAB0B0 inset !important;
+  color: #FAB0B0;
 }
 
 .ui.inverted.pink.buttons .button:hover,
@@ -3360,22 +3360,22 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 
 .ui.inverted.pink.buttons .button:hover,
 .ui.inverted.pink.button:hover {
-  background-color: #ff74d8;
+  background-color: #fd9393;
 }
 
 .ui.inverted.pink.buttons .button:focus,
 .ui.inverted.pink.button:focus {
-  background-color: #ff65d3;
+  background-color: #ff8282;
 }
 
 .ui.inverted.pink.buttons .active.button,
 .ui.inverted.pink.active.button {
-  background-color: #ff74d8;
+  background-color: #ff9191;
 }
 
 .ui.inverted.pink.buttons .button:active,
 .ui.inverted.pink.button:active {
-  background-color: #ff5bd1;
+  background-color: #f78080;
 }
 
 /* Inverted Basic */
@@ -3392,33 +3392,33 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 .ui.inverted.pink.basic.buttons .button:hover,
 .ui.inverted.pink.buttons .basic.button:hover,
 .ui.inverted.pink.basic.button:hover {
-  -webkit-box-shadow: 0px 0px 0px 2px #ff74d8 inset !important;
-  box-shadow: 0px 0px 0px 2px #ff74d8 inset !important;
-  color: #FF8EDF !important;
+  -webkit-box-shadow: 0px 0px 0px 2px #fd9393 inset !important;
+  box-shadow: 0px 0px 0px 2px #fd9393 inset !important;
+  color: #FAB0B0 !important;
 }
 
 .ui.inverted.pink.basic.buttons .button:focus,
 .ui.inverted.pink.basic.buttons .button:focus,
 .ui.inverted.pink.basic.button:focus {
-  -webkit-box-shadow: 0px 0px 0px 2px #ff65d3 inset !important;
-  box-shadow: 0px 0px 0px 2px #ff65d3 inset !important;
-  color: #FF8EDF !important;
+  -webkit-box-shadow: 0px 0px 0px 2px #ff8282 inset !important;
+  box-shadow: 0px 0px 0px 2px #ff8282 inset !important;
+  color: #FAB0B0 !important;
 }
 
 .ui.inverted.pink.basic.buttons .active.button,
 .ui.inverted.pink.buttons .basic.active.button,
 .ui.inverted.pink.basic.active.button {
-  -webkit-box-shadow: 0px 0px 0px 2px #ff74d8 inset !important;
-  box-shadow: 0px 0px 0px 2px #ff74d8 inset !important;
-  color: #FF8EDF !important;
+  -webkit-box-shadow: 0px 0px 0px 2px #ff9191 inset !important;
+  box-shadow: 0px 0px 0px 2px #ff9191 inset !important;
+  color: #FAB0B0 !important;
 }
 
 .ui.inverted.pink.basic.buttons .button:active,
 .ui.inverted.pink.buttons .basic.button:active,
 .ui.inverted.pink.basic.button:active {
-  -webkit-box-shadow: 0px 0px 0px 2px #ff5bd1 inset !important;
-  box-shadow: 0px 0px 0px 2px #ff5bd1 inset !important;
-  color: #FF8EDF !important;
+  -webkit-box-shadow: 0px 0px 0px 2px #f78080 inset !important;
+  box-shadow: 0px 0px 0px 2px #f78080 inset !important;
+  color: #FAB0B0 !important;
 }
 
 /*--- Violet ---*/
@@ -3600,7 +3600,7 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 
 .ui.purple.buttons .button,
 .ui.purple.button {
-  background-color: #A333C8;
+  background-color: #BA68C8;
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
@@ -3613,21 +3613,21 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 
 .ui.purple.buttons .button:hover,
 .ui.purple.button:hover {
-  background-color: #9627ba;
+  background-color: #b550c7;
   color: #FFFFFF;
   text-shadow: none;
 }
 
 .ui.purple.buttons .button:focus,
 .ui.purple.button:focus {
-  background-color: #8f1eb4;
+  background-color: #b43fc9;
   color: #FFFFFF;
   text-shadow: none;
 }
 
 .ui.purple.buttons .button:active,
 .ui.purple.button:active {
-  background-color: #82299f;
+  background-color: #a844b9;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -3636,7 +3636,7 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 .ui.purple.buttons .active.button:active,
 .ui.purple.active.button,
 .ui.purple.button .active.button:active {
-  background-color: #9724be;
+  background-color: #b74dc9;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -3645,40 +3645,40 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 
 .ui.basic.purple.buttons .button,
 .ui.basic.purple.button {
-  -webkit-box-shadow: 0px 0px 0px 1px #A333C8 inset !important;
-  box-shadow: 0px 0px 0px 1px #A333C8 inset !important;
-  color: #A333C8 !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #BA68C8 inset !important;
+  box-shadow: 0px 0px 0px 1px #BA68C8 inset !important;
+  color: #BA68C8 !important;
 }
 
 .ui.basic.purple.buttons .button:hover,
 .ui.basic.purple.button:hover {
   background: transparent !important;
-  -webkit-box-shadow: 0px 0px 0px 1px #9627ba inset !important;
-  box-shadow: 0px 0px 0px 1px #9627ba inset !important;
-  color: #9627ba !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #b550c7 inset !important;
+  box-shadow: 0px 0px 0px 1px #b550c7 inset !important;
+  color: #b550c7 !important;
 }
 
 .ui.basic.purple.buttons .button:focus,
 .ui.basic.purple.button:focus {
   background: transparent !important;
-  -webkit-box-shadow: 0px 0px 0px 1px #8f1eb4 inset !important;
-  box-shadow: 0px 0px 0px 1px #8f1eb4 inset !important;
-  color: #9627ba !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #b43fc9 inset !important;
+  box-shadow: 0px 0px 0px 1px #b43fc9 inset !important;
+  color: #b550c7 !important;
 }
 
 .ui.basic.purple.buttons .active.button,
 .ui.basic.purple.active.button {
   background: transparent !important;
-  -webkit-box-shadow: 0px 0px 0px 1px #9724be inset !important;
-  box-shadow: 0px 0px 0px 1px #9724be inset !important;
-  color: #82299f !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #b74dc9 inset !important;
+  box-shadow: 0px 0px 0px 1px #b74dc9 inset !important;
+  color: #a844b9 !important;
 }
 
 .ui.basic.purple.buttons .button:active,
 .ui.basic.purple.button:active {
-  -webkit-box-shadow: 0px 0px 0px 1px #82299f inset !important;
-  box-shadow: 0px 0px 0px 1px #82299f inset !important;
-  color: #82299f !important;
+  -webkit-box-shadow: 0px 0px 0px 1px #a844b9 inset !important;
+  box-shadow: 0px 0px 0px 1px #a844b9 inset !important;
+  color: #a844b9 !important;
 }
 
 .ui.buttons:not(.vertical) > .basic.purple.button:not(:first-child) {
@@ -3690,9 +3690,9 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 .ui.inverted.purple.buttons .button,
 .ui.inverted.purple.button {
   background-color: transparent;
-  -webkit-box-shadow: 0px 0px 0px 2px #DC73FF inset !important;
-  box-shadow: 0px 0px 0px 2px #DC73FF inset !important;
-  color: #DC73FF;
+  -webkit-box-shadow: 0px 0px 0px 2px #B783DB inset !important;
+  box-shadow: 0px 0px 0px 2px #B783DB inset !important;
+  color: #B783DB;
 }
 
 .ui.inverted.purple.buttons .button:hover,
@@ -3710,22 +3710,22 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 
 .ui.inverted.purple.buttons .button:hover,
 .ui.inverted.purple.button:hover {
-  background-color: #d65aff;
+  background-color: #ac6ada;
 }
 
 .ui.inverted.purple.buttons .button:focus,
 .ui.inverted.purple.button:focus {
-  background-color: #d24aff;
+  background-color: #a758dd;
 }
 
 .ui.inverted.purple.buttons .active.button,
 .ui.inverted.purple.active.button {
-  background-color: #d65aff;
+  background-color: #ad68dd;
 }
 
 .ui.inverted.purple.buttons .button:active,
 .ui.inverted.purple.button:active {
-  background-color: #cf40ff;
+  background-color: #a05bd0;
 }
 
 /* Inverted Basic */
@@ -3742,33 +3742,33 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 .ui.inverted.purple.basic.buttons .button:hover,
 .ui.inverted.purple.buttons .basic.button:hover,
 .ui.inverted.purple.basic.button:hover {
-  -webkit-box-shadow: 0px 0px 0px 2px #d65aff inset !important;
-  box-shadow: 0px 0px 0px 2px #d65aff inset !important;
-  color: #DC73FF !important;
+  -webkit-box-shadow: 0px 0px 0px 2px #ac6ada inset !important;
+  box-shadow: 0px 0px 0px 2px #ac6ada inset !important;
+  color: #B783DB !important;
 }
 
 .ui.inverted.purple.basic.buttons .button:focus,
 .ui.inverted.purple.basic.buttons .button:focus,
 .ui.inverted.purple.basic.button:focus {
-  -webkit-box-shadow: 0px 0px 0px 2px #d24aff inset !important;
-  box-shadow: 0px 0px 0px 2px #d24aff inset !important;
-  color: #DC73FF !important;
+  -webkit-box-shadow: 0px 0px 0px 2px #a758dd inset !important;
+  box-shadow: 0px 0px 0px 2px #a758dd inset !important;
+  color: #B783DB !important;
 }
 
 .ui.inverted.purple.basic.buttons .active.button,
 .ui.inverted.purple.buttons .basic.active.button,
 .ui.inverted.purple.basic.active.button {
-  -webkit-box-shadow: 0px 0px 0px 2px #d65aff inset !important;
-  box-shadow: 0px 0px 0px 2px #d65aff inset !important;
-  color: #DC73FF !important;
+  -webkit-box-shadow: 0px 0px 0px 2px #ad68dd inset !important;
+  box-shadow: 0px 0px 0px 2px #ad68dd inset !important;
+  color: #B783DB !important;
 }
 
 .ui.inverted.purple.basic.buttons .button:active,
 .ui.inverted.purple.buttons .basic.button:active,
 .ui.inverted.purple.basic.button:active {
-  -webkit-box-shadow: 0px 0px 0px 2px #cf40ff inset !important;
-  box-shadow: 0px 0px 0px 2px #cf40ff inset !important;
-  color: #DC73FF !important;
+  -webkit-box-shadow: 0px 0px 0px 2px #a05bd0 inset !important;
+  box-shadow: 0px 0px 0px 2px #a05bd0 inset !important;
+  color: #B783DB !important;
 }
 
 /*--- Red ---*/
@@ -7380,49 +7380,49 @@ a.ui.inverted.violet.header:hover {
 /*--- Purple ---*/
 
 .ui.purple.header {
-  color: #A333C8 !important;
+  color: #BA68C8 !important;
 }
 
 a.ui.purple.header:hover {
-  color: #9627ba !important;
+  color: #b550c7 !important;
 }
 
 .ui.purple.dividing.header {
-  border-bottom: 2px solid #A333C8;
+  border-bottom: 2px solid #BA68C8;
 }
 
 /* Inverted */
 
 .ui.inverted.purple.header {
-  color: #DC73FF !important;
+  color: #B783DB !important;
 }
 
 a.ui.inverted.purple.header:hover {
-  color: #d65aff !important;
+  color: #ac6ada !important;
 }
 
 /*--- Pink ---*/
 
 .ui.pink.header {
-  color: #E03997 !important;
+  color: #ED6B7A !important;
 }
 
 a.ui.pink.header:hover {
-  color: #e61a8d !important;
+  color: #f24d60 !important;
 }
 
 .ui.pink.dividing.header {
-  border-bottom: 2px solid #E03997;
+  border-bottom: 2px solid #ED6B7A;
 }
 
 /* Inverted */
 
 .ui.inverted.pink.header {
-  color: #FF8EDF !important;
+  color: #FAB0B0 !important;
 }
 
 a.ui.inverted.pink.header:hover {
-  color: #ff74d8 !important;
+  color: #fd9393 !important;
 }
 
 /*--- Brown ---*/
@@ -8012,32 +8012,32 @@ i.inverted.circular.violet.icon {
 /* Purple */
 
 i.purple.icon {
-  color: #A333C8 !important;
+  color: #BA68C8 !important;
 }
 
 i.inverted.purple.icon {
-  color: #DC73FF !important;
+  color: #B783DB !important;
 }
 
 i.inverted.bordered.purple.icon,
 i.inverted.circular.purple.icon {
-  background-color: #A333C8 !important;
+  background-color: #BA68C8 !important;
   color: #FFFFFF !important;
 }
 
 /* Pink */
 
 i.pink.icon {
-  color: #E03997 !important;
+  color: #ED6B7A !important;
 }
 
 i.inverted.pink.icon {
-  color: #FF8EDF !important;
+  color: #FAB0B0 !important;
 }
 
 i.inverted.bordered.pink.icon,
 i.inverted.circular.pink.icon {
-  background-color: #E03997 !important;
+  background-color: #ED6B7A !important;
   color: #FFFFFF !important;
 }
 
@@ -15618,8 +15618,8 @@ a.ui.basic.violet.label:hover {
 
 .ui.purple.labels .label,
 .ui.purple.label {
-  background-color: #A333C8 !important;
-  border-color: #A333C8 !important;
+  background-color: #BA68C8 !important;
+  border-color: #BA68C8 !important;
   color: #FFFFFF !important;
 }
 
@@ -15627,8 +15627,8 @@ a.ui.basic.violet.label:hover {
 
 .ui.purple.labels .label:hover,
 a.ui.purple.label:hover {
-  background-color: #9627ba !important;
-  border-color: #9627ba !important;
+  background-color: #b550c7 !important;
+  border-color: #b550c7 !important;
   color: #FFFFFF !important;
 }
 
@@ -15642,30 +15642,30 @@ a.ui.purple.label:hover {
 /* Ribbon */
 
 .ui.purple.ribbon.label {
-  border-color: #82299f !important;
+  border-color: #a844b9 !important;
 }
 
 /* Basic */
 
 .ui.basic.purple.label {
   background: none #FFFFFF !important;
-  color: #A333C8 !important;
-  border-color: #A333C8 !important;
+  color: #BA68C8 !important;
+  border-color: #BA68C8 !important;
 }
 
 .ui.basic.purple.labels a.label:hover,
 a.ui.basic.purple.label:hover {
   background-color: #FFFFFF !important;
-  color: #9627ba !important;
-  border-color: #9627ba !important;
+  color: #b550c7 !important;
+  border-color: #b550c7 !important;
 }
 
 /*--- Pink ---*/
 
 .ui.pink.labels .label,
 .ui.pink.label {
-  background-color: #E03997 !important;
-  border-color: #E03997 !important;
+  background-color: #ED6B7A !important;
+  border-color: #ED6B7A !important;
   color: #FFFFFF !important;
 }
 
@@ -15673,8 +15673,8 @@ a.ui.basic.purple.label:hover {
 
 .ui.pink.labels .label:hover,
 a.ui.pink.label:hover {
-  background-color: #e61a8d !important;
-  border-color: #e61a8d !important;
+  background-color: #f24d60 !important;
+  border-color: #f24d60 !important;
   color: #FFFFFF !important;
 }
 
@@ -15688,22 +15688,22 @@ a.ui.pink.label:hover {
 /* Ribbon */
 
 .ui.pink.ribbon.label {
-  border-color: #c71f7e !important;
+  border-color: #e73e51 !important;
 }
 
 /* Basic */
 
 .ui.basic.pink.label {
   background: none #FFFFFF !important;
-  color: #E03997 !important;
-  border-color: #E03997 !important;
+  color: #ED6B7A !important;
+  border-color: #ED6B7A !important;
 }
 
 .ui.basic.pink.labels a.label:hover,
 a.ui.basic.pink.label:hover {
   background-color: #FFFFFF !important;
-  color: #e61a8d !important;
-  border-color: #e61a8d !important;
+  color: #f24d60 !important;
+  border-color: #f24d60 !important;
 }
 
 /*--- Brown ---*/
@@ -19060,22 +19060,22 @@ ol.ui.horizontal.list li:before,
 /* Purple */
 
 .ui.purple.segment:not(.inverted) {
-  border-top: 2px solid #A333C8 !important;
+  border-top: 2px solid #BA68C8 !important;
 }
 
 .ui.inverted.purple.segment {
-  background-color: #A333C8 !important;
+  background-color: #BA68C8 !important;
   color: #FFFFFF !important;
 }
 
 /* Pink */
 
 .ui.pink.segment:not(.inverted) {
-  border-top: 2px solid #E03997 !important;
+  border-top: 2px solid #ED6B7A !important;
 }
 
 .ui.inverted.pink.segment {
-  background-color: #E03997 !important;
+  background-color: #ED6B7A !important;
   color: #FFFFFF !important;
 }
 
@@ -22915,7 +22915,7 @@ ol.ui.horizontal.list li:before,
 .ui.grid > .purple.row,
 .ui.grid > .purple.column,
 .ui.grid > .row > .purple.column {
-  background-color: #A333C8 !important;
+  background-color: #BA68C8 !important;
   color: #FFFFFF;
 }
 
@@ -22924,7 +22924,7 @@ ol.ui.horizontal.list li:before,
 .ui.grid > .pink.row,
 .ui.grid > .pink.column,
 .ui.grid > .row > .pink.column {
-  background-color: #E03997 !important;
+  background-color: #ED6B7A !important;
   color: #FFFFFF;
 }
 
@@ -25115,14 +25115,14 @@ Floated Menu / Item
 
 .ui.menu .purple.active.item,
 .ui.purple.menu .active.item {
-  border-color: #A333C8 !important;
-  color: #A333C8 !important;
+  border-color: #BA68C8 !important;
+  color: #BA68C8 !important;
 }
 
 .ui.menu .pink.active.item,
 .ui.pink.menu .active.item {
-  border-color: #E03997 !important;
-  color: #E03997 !important;
+  border-color: #ED6B7A !important;
+  color: #ED6B7A !important;
 }
 
 .ui.menu .brown.active.item,
@@ -25394,7 +25394,7 @@ Floated Menu / Item
 
 .ui.inverted.menu .purple.active.item,
 .ui.inverted.purple.menu {
-  background-color: #A333C8;
+  background-color: #BA68C8;
 }
 
 .ui.inverted.purple.menu .item:before {
@@ -25409,7 +25409,7 @@ Floated Menu / Item
 
 .ui.inverted.menu .pink.active.item,
 .ui.inverted.pink.menu {
-  background-color: #E03997;
+  background-color: #ED6B7A;
 }
 
 .ui.inverted.pink.menu .item:before {
@@ -26410,24 +26410,24 @@ Floated Menu / Item
 
 .ui.purple.message {
   background-color: #F6E7FF;
-  color: #A333C8;
-  -webkit-box-shadow: 0px 0px 0px 1px #A333C8 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  box-shadow: 0px 0px 0px 1px #A333C8 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  color: #BA68C8;
+  -webkit-box-shadow: 0px 0px 0px 1px #BA68C8 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  box-shadow: 0px 0px 0px 1px #BA68C8 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 
 .ui.purple.message .header {
-  color: #922eb4;
+  color: #b155c1;
 }
 
 .ui.pink.message {
   background-color: #FFE3FB;
-  color: #E03997;
-  -webkit-box-shadow: 0px 0px 0px 1px #E03997 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  box-shadow: 0px 0px 0px 1px #E03997 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  color: #ED6B7A;
+  -webkit-box-shadow: 0px 0px 0px 1px #ED6B7A inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  box-shadow: 0px 0px 0px 1px #ED6B7A inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 
 .ui.pink.message .header {
-  color: #dd238b;
+  color: #ea5466;
 }
 
 .ui.brown.message {
@@ -27283,22 +27283,22 @@ Floated Menu / Item
 /* Purple */
 
 .ui.purple.table {
-  border-top: 0.2em solid #A333C8;
+  border-top: 0.2em solid #BA68C8;
 }
 
 .ui.inverted.purple.table {
-  background-color: #A333C8 !important;
+  background-color: #BA68C8 !important;
   color: #FFFFFF !important;
 }
 
 /* Pink */
 
 .ui.pink.table {
-  border-top: 0.2em solid #E03997;
+  border-top: 0.2em solid #ED6B7A;
 }
 
 .ui.inverted.pink.table {
-  background-color: #E03997 !important;
+  background-color: #ED6B7A !important;
   color: #FFFFFF !important;
 }
 
@@ -28739,15 +28739,15 @@ a.ui.card:hover,
 .ui.purple.cards > .card,
 .ui.cards > .purple.card,
 .ui.purple.card {
-  -webkit-box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #A333C8, 0px 1px 3px 0px #D4D4D5;
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #A333C8, 0px 1px 3px 0px #D4D4D5;
+  -webkit-box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #BA68C8, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #BA68C8, 0px 1px 3px 0px #D4D4D5;
 }
 
 .ui.purple.cards > .card:hover,
 .ui.cards > .purple.card:hover,
 .ui.purple.card:hover {
-  -webkit-box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #9627ba, 0px 1px 3px 0px #BCBDBD;
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #9627ba, 0px 1px 3px 0px #BCBDBD;
+  -webkit-box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #b550c7, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #b550c7, 0px 1px 3px 0px #BCBDBD;
 }
 
 /* Pink */
@@ -28755,15 +28755,15 @@ a.ui.card:hover,
 .ui.pink.cards > .card,
 .ui.cards > .pink.card,
 .ui.pink.card {
-  -webkit-box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #E03997, 0px 1px 3px 0px #D4D4D5;
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #E03997, 0px 1px 3px 0px #D4D4D5;
+  -webkit-box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #ED6B7A, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #ED6B7A, 0px 1px 3px 0px #D4D4D5;
 }
 
 .ui.pink.cards > .card:hover,
 .ui.cards > .pink.card:hover,
 .ui.pink.card:hover {
-  -webkit-box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #e61a8d, 0px 1px 3px 0px #BCBDBD;
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #e61a8d, 0px 1px 3px 0px #BCBDBD;
+  -webkit-box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #f24d60, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #f24d60, 0px 1px 3px 0px #BCBDBD;
 }
 
 /* Brown */
@@ -30689,13 +30689,13 @@ a.ui.card:hover,
 .ui.purple.statistics .statistic > .value,
 .ui.statistics .purple.statistic > .value,
 .ui.purple.statistic > .value {
-  color: #A333C8;
+  color: #BA68C8;
 }
 
 .ui.pink.statistics .statistic > .value,
 .ui.statistics .pink.statistic > .value,
 .ui.pink.statistic > .value {
-  color: #E03997;
+  color: #ED6B7A;
 }
 
 .ui.brown.statistics .statistic > .value,
@@ -30775,13 +30775,13 @@ a.ui.card:hover,
 .ui.inverted.purple.statistics .statistic > .value,
 .ui.statistics .inverted.purple.statistic > .value,
 .ui.inverted.purple.statistic > .value {
-  color: #DC73FF;
+  color: #B783DB;
 }
 
 .ui.inverted.pink.statistics .statistic > .value,
 .ui.statistics .inverted.pink.statistic > .value,
 .ui.inverted.pink.statistic > .value {
-  color: #FF8EDF;
+  color: #FAB0B0;
 }
 
 .ui.inverted.brown.statistics .statistic > .value,
@@ -36094,21 +36094,21 @@ a.ui.nag {
 /* Purple */
 
 .ui.purple.progress .bar {
-  background-color: #A333C8;
+  background-color: #BA68C8;
 }
 
 .ui.purple.inverted.progress .bar {
-  background-color: #DC73FF;
+  background-color: #B783DB;
 }
 
 /* Pink */
 
 .ui.pink.progress .bar {
-  background-color: #E03997;
+  background-color: #ED6B7A;
 }
 
 .ui.pink.inverted.progress .bar {
-  background-color: #FF8EDF;
+  background-color: #FAB0B0;
 }
 
 /* Brown */

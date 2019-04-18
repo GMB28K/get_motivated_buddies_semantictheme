@@ -654,19 +654,19 @@
 
 /* Purple */
 .ui.purple.segment:not(.inverted) {
-  border-top: 2px solid #A333C8 !important;
+  border-top: 2px solid #BA68C8 !important;
 }
 .ui.inverted.purple.segment {
-  background-color: #A333C8 !important;
+  background-color: #BA68C8 !important;
   color: #FFFFFF !important;
 }
 
 /* Pink */
 .ui.pink.segment:not(.inverted) {
-  border-top: 2px solid #E03997 !important;
+  border-top: 2px solid #ED6B7A !important;
 }
 .ui.inverted.pink.segment {
-  background-color: #E03997 !important;
+  background-color: #ED6B7A !important;
   color: #FFFFFF !important;
 }
 

@@ -228,8 +228,8 @@
 @teal             : #00B5AD;
 @blue             : #2185D0;
 @violet           : #6435C9;
-@purple           : #A333C8;
-@pink             : #E03997;
+@purple           : #BA68C8;
+@pink             : #ED6B7A;
 @brown            : #A5673F;
 @grey             : #767676;
 @black            : #1B1C1D;
@@ -243,8 +243,8 @@
 @lightTeal        : #6DFFFF;
 @lightBlue        : #54C8FF;
 @lightViolet      : #A291FB;
-@lightPurple      : #DC73FF;
-@lightPink        : #FF8EDF;
+@lightPurple      : #B783DB;
+@lightPink        : #FAB0B0;
 @lightBrown       : #D67C1C;
 @lightGrey        : #DCDDDE;
 @lightBlack       : #545454;

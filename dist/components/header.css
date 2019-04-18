@@ -487,41 +487,41 @@ a.ui.inverted.violet.header:hover {
 /*--- Purple ---*/
 
 .ui.purple.header {
-  color: #A333C8 !important;
+  color: #BA68C8 !important;
 }
 a.ui.purple.header:hover {
-  color: #9627ba !important;
+  color: #b550c7 !important;
 }
 .ui.purple.dividing.header {
-  border-bottom: 2px solid #A333C8;
+  border-bottom: 2px solid #BA68C8;
 }
 
 /* Inverted */
 .ui.inverted.purple.header {
-  color: #DC73FF !important;
+  color: #B783DB !important;
 }
 a.ui.inverted.purple.header:hover {
-  color: #d65aff !important;
+  color: #ac6ada !important;
 }
 
 /*--- Pink ---*/
 
 .ui.pink.header {
-  color: #E03997 !important;
+  color: #ED6B7A !important;
 }
 a.ui.pink.header:hover {
-  color: #e61a8d !important;
+  color: #f24d60 !important;
 }
 .ui.pink.dividing.header {
-  border-bottom: 2px solid #E03997;
+  border-bottom: 2px solid #ED6B7A;
 }
 
 /* Inverted */
 .ui.inverted.pink.header {
-  color: #FF8EDF !important;
+  color: #FAB0B0 !important;
 }
 a.ui.inverted.pink.header:hover {
-  color: #ff74d8 !important;
+  color: #fd9393 !important;
 }
 
 /*--- Brown ---*/
