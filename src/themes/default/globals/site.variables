@@ -221,7 +221,7 @@
 
 /*---  Colors  ---*/
 @red              : #DB2828;
-@orange           : #F2711C;
+@orange           : #fd8f25;
 @yellow           : #FBBD08;
 @olive            : #B5CC18;
 @green            : #21BA45;
@@ -236,7 +236,7 @@
 
 /*---  Light Colors  ---*/
 @lightRed         : #FF695E;
-@lightOrange      : #FF851B;
+@lightOrange      : #fd8f25;
 @lightYellow      : #FFE21F;
 @lightOlive       : #D9E778;
 @lightGreen       : #2ECC40;

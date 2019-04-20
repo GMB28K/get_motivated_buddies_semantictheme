@@ -347,21 +347,21 @@ a.ui.inverted.red.header:hover {
 /*--- Orange ---*/
 
 .ui.orange.header {
-  color: #F2711C !important;
+  color: #fd8f25 !important;
 }
 a.ui.orange.header:hover {
-  color: #f26202 !important;
+  color: #ff8209 !important;
 }
 .ui.orange.dividing.header {
-  border-bottom: 2px solid #F2711C;
+  border-bottom: 2px solid #fd8f25;
 }
 
 /* Inverted */
 .ui.inverted.orange.header {
-  color: #FF851B !important;
+  color: #fd8f25 !important;
 }
 a.ui.inverted.orange.header:hover {
-  color: #ff7701 !important;
+  color: #ff8209 !important;
 }
 
 /*--- Olive ---*/
